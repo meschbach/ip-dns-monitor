@@ -1,0 +1,28 @@
+{
+  "name": "ip-dns-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meschbach/ip-dns-monitor.git"
+  },
+  "keywords": [
+    "dns",
+    "ip",
+    "monitoring"
+  ],
+  "author": "Mark Eschbach <meschbach@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meschbach/ip-dns-monitor/issues"
+  },
+  "homepage": "https://github.com/meschbach/ip-dns-monitor#readme",
+  "dependencies": {
+    "junk-bucket": "^1.4.1",
+    "public-ip": "^4.0.0"
+  }
+}
