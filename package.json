@@ -23,6 +23,6 @@
   "homepage": "https://github.com/meschbach/ip-dns-monitor#readme",
   "dependencies": {
     "junk-bucket": "^1.4.1",
-    "public-ip": "^4.0.0"
+    "public-ip": "^6.0.1"
   }
 }
